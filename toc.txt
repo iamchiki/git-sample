@@ -5,3 +5,5 @@ Creating Snapshots
   - Staging changes
 
   bug fix
+
+  change master
