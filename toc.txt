@@ -7,3 +7,5 @@ Creating Snapshots
   bug fix
 
   pass change branch
+
+  master change added
